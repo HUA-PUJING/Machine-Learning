@@ -1,0 +1,9 @@
+,video_name,tag
+0,Dataset/MotionDataset/test/arms shaking/ArmsShaking (1).mp4,arms shaking
+1,Dataset/MotionDataset/test/arms shaking/ArmsShaking (5).mp4,arms shaking
+2,Dataset/MotionDataset/test/arms shaking/ArmsShaking (16).mp4,arms shaking
+3,Dataset/MotionDataset/test/arms shaking/ArmsShaking (11).mp4,arms shaking
+4,Dataset/MotionDataset/test/arms shaking/ArmsShaking (14).mp4,arms shaking
+5,Dataset/MotionDataset/test/hands flapping/HandsFlapping (6).mp4,hands flapping
+6,Dataset/MotionDataset/test/hands flapping/HandsFlapping (1).mp4,hands flapping
+7,Dataset/MotionDataset/test/hands flapping/HandsFlapping (4).mp4,hands flapping
